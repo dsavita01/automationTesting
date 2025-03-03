@@ -16,6 +16,7 @@ public class DateTime {
 	
 	void message() {
 		System.out.println("Testing");
+		System.out.println("Testing mode");
 	}
 
 }
