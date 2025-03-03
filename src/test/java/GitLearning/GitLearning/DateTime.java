@@ -8,6 +8,7 @@ public class DateTime {
 		
 		Date current_Date = new Date();
         System.out.println(current_Date+"Arya");
+        System.out.println("Today is 3rd Mar 2025");
         
 
 	}
